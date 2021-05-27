@@ -10,10 +10,10 @@ Bikeshare project
 Analysis the bikeshare data of three major cities
 
 ### Files used
-bieshare.py
+bikeshare.py
 chicago.csv
 new_york_city.csv
 chicago.csv
 
 ### Credits
-Udacity course project 
+Udacity course project
