@@ -211,6 +211,7 @@ def check_rawdata(df):
 
 
 def main():
+    """Asking customer if they like to restart"""
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
